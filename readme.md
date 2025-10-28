@@ -4,6 +4,8 @@
 - 아래는 도서의 목차 입니다.
 - 연습환경 google colab
 
+- 출처 : 유튜브 퇴근후딴짓, 빅데이터 분석기사실기(book) -> bigdataExamAndADP.ipynb
+
 ### 탐색적 데이터 분석
 - 공통
   - 데이터 불러오기
